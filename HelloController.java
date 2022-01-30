@@ -25,7 +25,7 @@ public class HelloController implements Initializable {
 
 
 
-    Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/projectdb","root","root");
+    
 
     public HelloController() throws SQLException {
     }
