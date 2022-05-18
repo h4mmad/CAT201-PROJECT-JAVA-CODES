@@ -9,8 +9,7 @@ https://github.com/h4mmad/Car-Rental-Java-Project-Resources
 
 ---
 
-## Login screen
-![alt text](https://raw.githubusercontent.com/h4mmad/Car-Rental-Java-Project/main/Screenshot%202022-05-18%20104549.png)
+## Login screen ![alt text](https://raw.githubusercontent.com/h4mmad/Car-Rental-Java-Project/main/Screenshot%202022-05-18%20104549.png)
 
 ## Bill users
 ![alt_text](https://raw.githubusercontent.com/h4mmad/Car-Rental-Java-Project/main/Screenshot%202022-05-18%20104707.png)
