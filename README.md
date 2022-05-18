@@ -1,4 +1,4 @@
-# Car-Rental-Java-Project
+# Car-Rental-Project
 A car rental desktop application that allows you to add new cars and users to a MySQL DB, it also allows you generate a printable bill
 using Apache PDF box, the application is built using JavaFX
 
