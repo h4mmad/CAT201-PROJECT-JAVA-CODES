@@ -9,4 +9,5 @@ https://github.com/h4mmad/Car-Rental-Java-Project-Resources
 
 
 
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/h4mmad/Car-Rental-Java-Project/main/Screenshot%202022-05-18%20104549.png))
+![alt text](https://raw.githubusercontent.com/h4mmad/Car-Rental-Java-Project/main/Screenshot%202022-05-18%20104549.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
