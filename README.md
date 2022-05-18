@@ -6,6 +6,7 @@ The admin can enter user details such as License number, and other personal deta
 
 View fxml and other project resources here:
 https://github.com/h4mmad/Car-Rental-Java-Project-Resources
+
 ---
 
 ## Login screen
