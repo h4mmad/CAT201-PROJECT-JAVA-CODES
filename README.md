@@ -22,7 +22,7 @@ https://github.com/h4mmad/Car-Rental-Java-Project-Resources
 ![alt_text](https://raw.githubusercontent.com/h4mmad/Car-Rental-Java-Project/main/Screenshot%202022-05-18%20104707.png)
 
 
-### Sample invoice
+### Dynamically generated invoice
 
 
 ![alt_text](https://raw.githubusercontent.com/h4mmad/Car-Rental-Java-Project/main/Screenshot%202022-05-18%20104829.png)
