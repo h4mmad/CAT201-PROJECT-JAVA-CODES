@@ -16,10 +16,10 @@ https://github.com/h4mmad/Car-Rental-Java-Project-Resources
 ![alt text](https://raw.githubusercontent.com/h4mmad/Car-Rental-Java-Project/main/Screenshot%202022-05-18%20104549.png)
 
 
-### View cars
+### Add cars
 
 
-![alt text](https://github.com/h4mmad/Car-Rental-Java-Project/blob/main/Screenshot%202022-05-18%20104915.png)
+![alt text](https://github.com/h4mmad/Car-Rental-Java-Project/blob/main/Screenshot%202022-05-18%20104855.png)
 
 
 ### Bill users
